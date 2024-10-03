@@ -3,4 +3,4 @@ Isi repositori ini adalah contoh penerapan Decorator Pattern pada deskripsi dan 
 
 ## UML Diagram
 
-![UML](img/uml.png)
+![UML](img/uml.jpg)
